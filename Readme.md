@@ -1,1 +1,1 @@
-## Projeto em C que simula uma sistema de Biblioteca
+## Projeto em C que simula um sistema de Biblioteca
